@@ -1,0 +1,3 @@
+curl -X POST http://send-bot.herokuapp.com/send/london-consent-project --data "name=Tom Chambers&email=tom.chambers@gmail.com&subject=Hi there&message=ding dong dash"
+
+curl -X POST http://localhost:5000/send/london-consent-project --data "name=Tom Chambers&email=tom.chambers@gmail.com&subject=Hi there&message=ding dong dash"
